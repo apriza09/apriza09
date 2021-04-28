@@ -11,13 +11,13 @@
 - 📝 I'm currently working on **Nothing**
 
 
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=apriza_09 alt=apriza_09/> </p>
+<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=apriza09 alt=apriza09/> </p>
 <p align="center">
-  <a href="https://github.com/apriza_09"><img src="https://github-readme-stats.vercel.app/api?username=apriza_09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/apriza09"><img src="https://github-readme-stats.vercel.app/api?username=apriza09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/apriza_09"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriza_09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/apriza09"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriza09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriza_09" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriza09" />
 </p>
 
  #Sosial Media
@@ -35,4 +35,4 @@
 
 * [`Rest Api `](http://hads-senpai.herokuapp.com)
 
-* [`Bot Telegram`](t.me/Xkaguya_bot)
+* [`Bot Telegram`](https://t.me/Xkaguya_bot)
